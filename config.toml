@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "ENGL111 Project 3"
+pygmentsstyle = 'monokai'
+theme = "novela"
