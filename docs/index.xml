@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ENGL111 Project 3</title>
+    <link>http://example.org/</link>
+    <description>Recent content on ENGL111 Project 3</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Apr 2020 22:19:38 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reflection 1</title>
+      <link>http://example.org/post/reflection-1/</link>
+      <pubDate>Wed, 22 Apr 2020 22:19:38 -0400</pubDate>
+      
+      <guid>http://example.org/post/reflection-1/</guid>
+      <description>Yo</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>I am Wen-Hsiang, from Purdue Univeristy. My major is Electrical and Computer Engineering.</description>
+    </item>
+    
+  </channel>
+</rss>

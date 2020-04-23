@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "ENGL111 Project 3"
 pygmentsstyle = 'monokai'
 theme = "novela"
+publishDir = "docs"
