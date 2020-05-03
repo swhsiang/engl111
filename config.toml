@@ -1,10 +1,10 @@
 # Include trailing slash
-baseURL = "http://engl111.hsiang.io/"
+baseURL = "https://engl111.hsiang.io/"
 languageCode = "en-us"
 title = "ENGL111 Project 3"
 # pygmentsstyle = 'monokai'
 publishDir = "docs"
-layoutDir = "themes/hugo-swift-theme/layouts"
+# layoutDir = "themes/hugo-swift-theme/layouts"
 
 theme = "hugo-swift-theme"
 author = "Wen-Hsiang Shih"
