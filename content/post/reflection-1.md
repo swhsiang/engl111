@@ -1,10 +1,12 @@
 ---
-title: "Reflection 1"
-date: 2020-04-22T22:19:38-04:00
-hero: "/images/sky_img.jpg" 
-excerpt: "ENGL 111"
+title: "Identity"
+date: 2020-05-02T20:19:22-04:00
+image: "sky_img.jpg" 
+author: "Wen-Hsiang Shih"
+excerpt:
 draft: false 
 ---
 
-Yo
+<!-- {{< picture "/static/images/sky_img.jpg" "sky_img.jpg" "Image alt text" >}} -->
 
+yoooo
