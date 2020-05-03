@@ -9,4 +9,10 @@ draft: false
 
 <!-- {{< picture "/static/images/sky_img.jpg" "sky_img.jpg" "Image alt text" >}} -->
 
-yoooo
+# Selected Material 
+[vlog link #1](https://flipgrid.com/d09b7c52)
+
+# Reflection
+<!-- explan why I choose above link -->
+
+# Connection
