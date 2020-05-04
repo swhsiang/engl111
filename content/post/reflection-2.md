@@ -28,6 +28,6 @@ Modern society is so complicated and people are complicated as well. There is no
 
 # Selected Material
 
-[journal #8 link](https://drive.google.com/file/d/1dUFUbhWyx7dxRCIBwc96JVlSe9Et-Ly1/view?usp=sharing)
+* [journal #8 link](https://drive.google.com/file/d/1dUFUbhWyx7dxRCIBwc96JVlSe9Et-Ly1/view?usp=sharing)
 
 ###### photo by [Markus Spiske](https://www.pexels.com/@markusspiske)

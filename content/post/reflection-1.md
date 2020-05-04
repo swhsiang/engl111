@@ -26,6 +26,6 @@ Blood or skin color determine the starting point of our life but they do not det
 
 # Selected Material
 
-[vlog link #1](https://flipgrid.com/d09b7c52)
-[vlog link #5](https://flipgrid.com/d09b7c52)
+* [vlog link #1](https://flipgrid.com/d09b7c52)
+* [vlog link #5](https://flipgrid.com/d09b7c52)
 
