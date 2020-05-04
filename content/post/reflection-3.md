@@ -34,6 +34,4 @@ In an ideal case, inviting everyone in the group to exchange their expectations 
 * [project #2 reflection](https://drive.google.com/open?id=12M2U7-jSGX_U5PPKic7YuVqXyDaRGI51B58idqZ8WhU)
 * [journal #6](https://docs.google.com/document/d/15Act68eK9xChNjB31XQr7n2D5NGCaceSlHk9_IfJB6k/edit?usp=sharing)
 
-
-# Connection
-
+###### Photo by [Sarah Pflug](https://burst.shopify.com/@sarahpflugphoto?utm_campaign=photo_credit&utm_content=Free+Smiling+Meeting+Roundtable+Image%3A+Browse+1000s+of+Pics&utm_medium=referral&utm_source=credit) from Burst

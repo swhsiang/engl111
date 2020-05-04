@@ -4,11 +4,12 @@ date: 2020-05-03T06:21:57-04:00
 excerpt:
 draft: false 
 author: "Wen-Hsiang Shih"
+image: "bias.jpg"
 ---
 
 # Report
 
-For this theme, I select journal #8. My journal #8 is based on a book, Funny in Farsi, a story about the life of an Iranian girl. The book shows how the author has been suffering from the stereotypes of Iranian.
+For this theme, I select journal #2 and #8. My journal #8 is based on a book, Funny in Farsi, a story about the life of an Iranian girl. The book shows how the author has been suffering from the stereotypes of Iranian. The journal #2 is about a study of the effect of accents, published by NAU.
 
 # Relate
 
@@ -29,4 +30,4 @@ Modern society is so complicated and people are complicated as well. There is no
 
 [journal #8 link](https://drive.google.com/file/d/1dUFUbhWyx7dxRCIBwc96JVlSe9Et-Ly1/view?usp=sharing)
 
-# Connection
+###### photo by [Markus Spiske](https://www.pexels.com/@markusspiske)
