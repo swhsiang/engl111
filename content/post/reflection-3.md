@@ -4,6 +4,7 @@ date: 2020-05-03T06:22:00-04:00
 excerpt:
 draft: false 
 author: "Wen-Hsiang Shih"
+image: "smiling-meeting-roundtable.jpg"
 ---
 
 # Report
@@ -19,7 +20,7 @@ In our project 2, we first had a hard time to determine the topic of the project
 # Reason
 Full-time students usually have heavy workloads. Students may prioritize their own tasks and that's the moment where the conflict of interest among the group happened.
 
-Another possible reason is the difference of cultural values.
+Another possible reason is the difference of cultural values. Everyone comes with different backgrounds and may prefer different ways to complete one thing.
 
 
 # Reconstruct
