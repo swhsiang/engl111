@@ -9,7 +9,7 @@ image: "smiling-meeting-roundtable.jpg"
 
 # Report
 
-In this theme, I would like to reflect on collaboration topic based on my Vlog #8 and project #2 reflection.
+In this theme, I would like to reflect on collaboration topic based on my Vlog #8 project #2 reflection and journal #6 from ENGL 110.
 
 Being able to work with others is a vital skill to succeed in the modern society. Nowadays, the problems we are facing are complex to solve by single person. It's important for us to learn collaboration in school before we go to work in industries.
 
@@ -32,6 +32,7 @@ In an ideal case, inviting everyone in the group to exchange their expectations 
 
 * [vlog #8 link](https://flipgrid.com/dcbbb423)
 * [project #2 reflection](https://drive.google.com/open?id=12M2U7-jSGX_U5PPKic7YuVqXyDaRGI51B58idqZ8WhU)
+* [journal #6](https://docs.google.com/document/d/15Act68eK9xChNjB31XQr7n2D5NGCaceSlHk9_IfJB6k/edit?usp=sharing)
 
 
 # Connection
