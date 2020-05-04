@@ -17,10 +17,13 @@ In our project 2, we first had a hard time to determine the topic of the project
 
 
 # Reason
-Full-time students usually have heavy workloads. Students would prioritize their own tasks and then the conflict of interest occured.
+Full-time students usually have heavy workloads. Students may prioritize their own tasks and that's the moment where the conflict of interest among the group happened.
+
+Another possible reason is the difference of cultural values.
 
 
 # Reconstruct
+In an ideal case, inviting everyone in the group to exchange their expectations to the project and each other. Once the group finds the concensus. In addition to that, someone in the group must stand out to be the one who reminds everyone when to do what. By doing that, everyone would stay on the right track and complete the project on time.
 
 
 
