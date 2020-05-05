@@ -13,18 +13,21 @@ For this theme, I select journal #2 and #8. My journal #8 is based on a book, Fu
 
 # Relate
 
-As an international student, it is easy for me to understand from what she suffered, though I have not experienced serious discrimination in the US. It's natural but incorrect that people interact with others based on stereotypes.
+As an international student, it is easy for me to understand from what she suffered, though I have not experienced serious discrimination in the US. It's natural but incorrect that people interact with others based on stereotypes
 
-I am a pessmistic person and I believe that the longer we stay in the US, the higher the chance that we will encounter some kind of discrimination against us.
 
-Here in the US, discrimination is a big issue. A small portion of population may hurt others because of discrimination. We called it Hate Crime. That's really scary because of its randomness. 
+I am a pessimistic person and I believe that the longer we stay in the US, the higher the chance that we will encounter some kind of discrimination against us.
+
+
+Here in the US, discrimination is a big issue. A small part of population may hurt others because of discrimination. We called it Hate Crime. That's really scary because of its randomness. 
 
 # Reason
 It takes time to build trust between two strangers. When we first meet someone, we don't know much about each other. Oftentimes, we let stereotypes lead us to develop relationship.
 
 # Reconstruct
 
-Modern society is so complicated and people are complicated as well. There is no single rule or simple guidlines for us to determine how to interact with others.
+Modern society is so complicated. There is no single rule or simple guidelines for us to follow. We all should try our best to be open-minded and get along with people with different backgrounds.
+
 
 # Selected Material
 
